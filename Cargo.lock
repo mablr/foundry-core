@@ -3232,7 +3232,7 @@ dependencies = [
 [[package]]
 name = "evm2"
 version = "0.1.0"
-source = "git+https://github.com/mablr/evm2?rev=61e5a888e2807108ce5e69f954ef5b8386e56270#61e5a888e2807108ce5e69f954ef5b8386e56270"
+source = "git+https://github.com/mablr/evm2?rev=6eb1d262cd6049a9e709e517e97a0bea8877b9f9#6eb1d262cd6049a9e709e517e97a0bea8877b9f9"
 dependencies = [
  "alloy-consensus",
  "alloy-eip7928",
@@ -3257,6 +3257,7 @@ dependencies = [
  "p256 0.14.0",
  "phf",
  "ripemd 0.2.0",
+ "ruint",
  "secp256k1 0.33.1",
  "serde",
  "sha2 0.11.0",
@@ -3268,7 +3269,7 @@ dependencies = [
 [[package]]
 name = "evm2-macros"
 version = "0.1.0"
-source = "git+https://github.com/mablr/evm2?rev=61e5a888e2807108ce5e69f954ef5b8386e56270#61e5a888e2807108ce5e69f954ef5b8386e56270"
+source = "git+https://github.com/mablr/evm2?rev=6eb1d262cd6049a9e709e517e97a0bea8877b9f9#6eb1d262cd6049a9e709e517e97a0bea8877b9f9"
 dependencies = [
  "proc-macro2",
  "quote",
