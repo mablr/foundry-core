@@ -3232,7 +3232,7 @@ dependencies = [
 [[package]]
 name = "evm2"
 version = "0.1.0"
-source = "git+https://github.com/mablr/evm2?rev=61e5a888e2807108ce5e69f954ef5b8386e56270#61e5a888e2807108ce5e69f954ef5b8386e56270"
+source = "git+https://github.com/mablr/evm2?rev=9cd52551e93dd569b93db7d3e2853e8af741bdd6#9cd52551e93dd569b93db7d3e2853e8af741bdd6"
 dependencies = [
  "alloy-consensus",
  "alloy-eip7928",
@@ -3268,7 +3268,7 @@ dependencies = [
 [[package]]
 name = "evm2-macros"
 version = "0.1.0"
-source = "git+https://github.com/mablr/evm2?rev=61e5a888e2807108ce5e69f954ef5b8386e56270#61e5a888e2807108ce5e69f954ef5b8386e56270"
+source = "git+https://github.com/mablr/evm2?rev=9cd52551e93dd569b93db7d3e2853e8af741bdd6#9cd52551e93dd569b93db7d3e2853e8af741bdd6"
 dependencies = [
  "proc-macro2",
  "quote",
